@@ -23,8 +23,8 @@ Latest version: [EdgeRemover v1.0.0](https://github.com/YOURUSERNAME/EdgeRemover
 **Advanced**: Run in CMD as admin with `--webview` to remove WebView2 too.
 
 ## Screenshots
-![Running Tool](https://via.placeholder.com/800x450?text=Tool+Running+Beautifully)
-![Success Message](https://via.placeholder.com/800x450?text=Removal+Successful)
+![Running Tool](working.png)
+![Success Message](main.png)
 
 ## Disclaimer
 Use at your own risk. Removing Edge may affect Windows features/apps.  
