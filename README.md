@@ -23,7 +23,7 @@ Latest version: [EdgeRemover v1.0.0](https://github.com/YOURUSERNAME/EdgeRemover
 **Advanced**: Run in CMD as admin with `--webview` to remove WebView2 too.
 
 ## Screenshots
-![Running Tool](working.png)
+![Running Tool](Working.png)
 ![Success Message](main.png)
 
 ## Disclaimer
